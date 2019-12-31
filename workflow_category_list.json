@@ -3,6 +3,10 @@
 		"cid":"2",
 		"title":"热门|Hot",
 	},
+    {
+        "cid":"3",
+        "title":"VIP|VIP",
+    },
 	{
 		"cid":"",
 		"title":"全部|All",
