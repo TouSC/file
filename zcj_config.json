@@ -2,5 +2,8 @@
     "android_latest_version":"0.0.0",
     "android_title":"修复Bug",
     "ios_latest_version":"",
-    "ios_title":""
+    "ios_title":"",
+    "ad_img":"http://39.96.179.11:81/file/img/20200105131117034142526436.jpeg",
+    "ad_duration":"3",
+    "ad_url":"www.baidu.com"
 }
